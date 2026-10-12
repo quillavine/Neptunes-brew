@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+}
+body {
+    text-align:center;
+    font-family: 'fantasy';
+    background: rgb(185, 255, 240);
+    color: rgb(68, 113, 93);
+}
